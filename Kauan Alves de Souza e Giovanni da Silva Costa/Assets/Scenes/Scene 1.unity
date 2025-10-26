@@ -190,15 +190,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalScale.y
-      value: 11.234231
+      value: 11.548125
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 37.59
+      value: 37.576
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 24.22
+      value: 24.198
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.z
@@ -241,6 +241,67 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+--- !u!1001 &170364849
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 120.535545
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 151.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.60955733
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.792742
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -104.885
+      objectReference: {fileID: 0}
+    - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_Name
+      value: Barreira branca (21)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
 --- !u!1001 &240284679
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -251,15 +312,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalScale.y
-      value: 20
+      value: 19.510479
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 31.76
+      value: 31.71
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 40.01
+      value: 39.89
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.z
@@ -377,11 +438,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 47.7
+      value: 47.82
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 27.16
+      value: 26.99
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.z
@@ -948,15 +1009,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalScale.x
-      value: 38.850002
+      value: 39.33563
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 73.65
+      value: 73.96
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 33.71
+      value: 33.61
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.z
@@ -993,6 +1054,67 @@ PrefabInstance:
     - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_Name
       value: Barreira branca (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+--- !u!1001 &672376475
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 73.163864
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 162.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 20.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5472492
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.83696973
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -113.643
+      objectReference: {fileID: 0}
+    - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_Name
+      value: Barreira branca (22)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1328,15 +1450,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalScale.y
-      value: 13.359771
+      value: 13.24167
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 38.32
+      value: 38.19
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 32.23
+      value: 32.26
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1572,11 +1694,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalScale.y
-      value: 19.299906
+      value: 19.264587
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 15.4
+      value: 15.47
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1584,7 +1706,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1617,6 +1739,63 @@ PrefabInstance:
     - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_Name
       value: Barreira branca (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+--- !u!1001 &1142591249
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 38.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_Name
+      value: Barreira branca (18)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1716,15 +1895,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 65.09
+      value: 64.96
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 46.93
+      value: 46.68
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1757,6 +1936,67 @@ PrefabInstance:
     - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_Name
       value: Barreira branca (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+--- !u!1001 &1197772175
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 120.535545
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 151.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.60955733
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.792742
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -104.885
+      objectReference: {fileID: 0}
+    - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_Name
+      value: Barreira branca (17)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1834,19 +2074,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalScale.y
-      value: 22.688318
+      value: 23.698212
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 32.69
+      value: 32.93
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15.07
+      value: 14.8
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -10
       objectReference: {fileID: 0}
     - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2326,6 +2566,128 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+--- !u!1001 &1814827806
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 24.596983
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 49.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -45
+      objectReference: {fileID: 0}
+    - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_Name
+      value: Barreira branca (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+--- !u!1001 &1838935815
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 16.187
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 203.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.60955733
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.792742
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -104.885
+      objectReference: {fileID: 0}
+    - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_Name
+      value: Barreira branca (23)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
 --- !u!1001 &1912862824
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2387,6 +2749,67 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 187e707723b3bab40a387272d0335c99, type: 3}
+--- !u!1001 &1920387620
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 58.735943
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 121.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 26.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.60955733
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.792742
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -104.885
+      objectReference: {fileID: 0}
+    - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_Name
+      value: Barreira branca (19)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
 --- !u!1001 &1959812394
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2442,6 +2865,67 @@ PrefabInstance:
     - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
       propertyPath: m_Name
       value: Barreira branca (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+--- !u!1001 &1993057560
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 10.108709
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 24.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5472492
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.83696973
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -113.643
+      objectReference: {fileID: 0}
+    - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_Name
+      value: Barreira branca (20)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2584,6 +3068,67 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2070475618}
   m_CullTransparentMesh: 1
+--- !u!1001 &2086566797
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 34.900364
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 75.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 23.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952133012720236647, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6243815270540430684, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
+      propertyPath: m_Name
+      value: Barreira branca (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9d0bb5acaabcfb5409e3da79803403ef, type: 3}
 --- !u!1001 &6876714310140215973
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2748,3 +3293,12 @@ SceneRoots:
   - {fileID: 1174351750}
   - {fileID: 1500465637}
   - {fileID: 564573160}
+  - {fileID: 2086566797}
+  - {fileID: 1814827806}
+  - {fileID: 1197772175}
+  - {fileID: 1920387620}
+  - {fileID: 1142591249}
+  - {fileID: 1993057560}
+  - {fileID: 672376475}
+  - {fileID: 170364849}
+  - {fileID: 1838935815}
